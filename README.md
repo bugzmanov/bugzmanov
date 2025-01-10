@@ -1,6 +1,6 @@
-Hey there!
+Hey there! I'm [Rafael](https://bugzmanov.github.io/)
 
-Here are my writings & stuff
+Here is my writings & stuff:
 
 <table >
   <tr>
