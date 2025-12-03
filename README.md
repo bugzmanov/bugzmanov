@@ -1,5 +1,4 @@
-Hey there! I'm [Rafael](https://bugzmanov.github.io/)
-
+Hey there! 
 Here is my writings & stuff:
 
 <table >
